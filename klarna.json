@@ -1,0 +1,124 @@
+{
+    "Ads": {
+     	"show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://smrturl.co/0211428",
+        "items_data": [{
+                "title": "Sign up for Klarna",
+                "image": "https://klarna-shop.web.app/i1.png",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "How do I sign up for Klarna? To sign up for Klarna, download the app from your app store and follow the prompts to create an account. You'll need to provide your personal information, such as your name, date of birth, and address. You'll also need to link a valid payment method, such as a credit or debit card, to your Klarna account.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://www.google.com/"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://www.google.com/"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://www.google.com/"
+				}
+				]
+            }, {
+                "title": "using Klarna",
+                "image": "https://klarna-shop.web.app/i2.png",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "How do I make a purchase using Klarna? To make a purchase using Klarna, first make sure the store you're shopping at accepts Klarna as a payment method. When you're ready to check out, select Klarna as your payment option and follow the prompts to complete your purchase. You'll be prompted to choose a payment plan and provide some additional information, such as your billing address and payment method.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "payments with Klarna",
+                "image": "https://klarna-shop.web.app/i3.png",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "How do I set up automatic payments with Klarna? To set up automatic payments with Klarna, go to your account settings in the app and select Recurring payments. From there, you can choose the payment method you want to use, select the frequency of the payments, and set an end date for the recurring payments.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": " history on Klarna",
+                "image": "https://klarna-shop.web.app/i4.png",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "How do I view my purchase history on Klarna? To view your purchase history on Klarna, go to your account settings in the app and select Purchase history. This will show you a list of all the purchases you've made using Klarna, including the payment status of each transaction.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "change my payment method",
+                "image": "https://klarna-shop.web.app/i5.png",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "How do I change my payment method on Klarna? To change your payment method on Klarna, go to your account settings in the app and select Payment methods. From there, you can add or remove payment methods and set a default payment method for future purchases.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "dispute a charge on Klarna",
+                "image": "https://klarna-shop.web.app/i6.png",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "How do I dispute a charge on Klarna? To dispute a charge on Klarna, contact Klarna customer support through the app or website and provide information about the issue. Klarna will investigate the dispute and work with you and the merchant to resolve the issue.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }
+        ]
+    }
+}
